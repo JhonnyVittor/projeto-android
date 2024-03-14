@@ -169,7 +169,7 @@ div.video > iframe{
 #outras > ul{
     list-style-type:'\2714\00A0';
     list-style-position: inside;
-    text-align:left;
+    text-align:start;
     columns: 2;
 }
 footer{
